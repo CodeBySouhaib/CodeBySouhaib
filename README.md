@@ -47,12 +47,6 @@ Here are a few of my favorite projects:
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeBySouhaib&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBySouhaib&layout=compact&theme=radical)
-
----
-
 ### 📫 Contact Me
 - **Email:** [harrabisouhaib@gmail.com](mailto:harrabisouhaib@gmail.com)
 - **GitHub:** [CodeBySouhaib](https://github.com/CodeBySouhaib)
