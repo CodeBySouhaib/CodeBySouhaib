@@ -1,16 +1,23 @@
+# 👋 Hello, I'm Harrabi Souhaib!
+
 ### 👨‍🎓 About Me
 I’m a third-year student at **ISET Djerba**, specializing in IT & Software Development.  
-I completed an internship at **Bank Zitouna**, where I gained practical experience in software development.  
-Passionate about programming, learning new technologies, and building impactful projects.
+I completed an internship at **Bank Zitouna**, where I gained hands-on experience in software development and teamwork.  
+I’m passionate about building impactful software, learning new technologies, and contributing to the developer community.
+
+Currently, I’m working on several exciting projects:
+- **PHP Money Transfer App:** A web application for creating accounts and securely sending/receiving money.
+- **Flutter PDF Manager:** A mobile app for scanning PDFs and converting them to Word.
+- **React Native Task Manager:** A task management app with navigation and task creation features.
 
 ---
 
 ### 💻 Projects
-- **[PHP Money Transfer App](#):** A web app for creating accounts and securely sending/receiving money.
-- **[Flutter PDF Manager](#):** A mobile app for scanning PDFs and converting them to Word.
-- **[React Native Task Manager](#):** A task management app with navigation and task creation features.
-- **[WPF Guessing Game](#):** A number-guessing game built with WPF in C#.
-- **[UI/UX Reflection Project](#):** A project focusing on Gestalt laws and design principles.
+Here are a few of my favorite projects:
+- [PHP Money Transfer App](#): Manage accounts for secure money transfers.
+- [Flutter PDF Manager](#): Scan PDFs and convert them to Word documents.
+- [React Native Task Manager](#): Create and track tasks with an intuitive interface.
+- [UI/UX Reflection Project](#): Mastering Gestalt laws in design.
 
 ---
 
@@ -21,37 +28,32 @@ Passionate about programming, learning new technologies, and building impactful 
 ![React Native](https://img.shields.io/badge/-React%20Native-lightblue?style=flat-square&logo=react)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=spring)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-blue?style=flat-square&logo=dotnet)
-![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework-00599C?style=flat-square&logo=nuget)
 ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-lightblue?style=flat-square&logo=virtualbox)
 
 ---
 
 ### 🌟 Achievements
-- 📈 Reached **Diamond 2** rank in Valorant.
 - 🎨 Completed UI/UX assignments, mastering Gestalt laws and design principles.
-- 🏦 Completed an internship at **Bank Zitouna**, gaining real-world experience in software development.
-
----
-
-### 🎉 Fun Facts
-- 🎓 I’m proud to be a student at ISET Djerba, diving deep into IT and software development.
-- 🏆 I reached Diamond 2 in Valorant and aim to improve even further.
-- 🖥️ I enjoy experimenting with tools like VirtualBox and learning how systems work.
-- 🎨 I’m fascinated by UI/UX design and completed projects exploring Gestalt principles.
+- 🏦 Successfully completed an internship at **Bank Zitouna**.
 
 ---
 
 ### 🎯 Goals
-- 📚 Graduate from ISET Djerba by mid-2024.
-- 🌍 Contribute to open-source projects that help developers.
-- 🛠️ Build apps that make life easier and more enjoyable for others.
+- 🎓 Graduate from ISET Djerba by mid-2024.
+- 🌍 Contribute to impactful open-source projects.
+- 🚀 Build innovative applications using **React Native** and **Spring Boot**.
 
 ---
 
-### 📫 How to Reach Me
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeBySouhaib&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBySouhaib&layout=compact&theme=radical)
+
+---
+
+### 📫 Contact Me
 - **Email:** [harrabisouhaib@gmail.com](mailto:harrabisouhaib@gmail.com)
-- **Location:** Djerba, Tunisia
 - **GitHub:** [CodeBySouhaib](https://github.com/CodeBySouhaib)
+- **Location:** Djerba, Tunisia
