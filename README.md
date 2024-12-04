@@ -50,4 +50,5 @@ Here are a few of my favorite projects:
 ### 📫 Contact Me
 - **Email:** [harrabisouhaib@gmail.com](mailto:harrabisouhaib@gmail.com)
 - **GitHub:** [CodeBySouhaib](https://github.com/CodeBySouhaib)
+- **LinkedIn:** [Harrabi Souhaib](https://www.linkedin.com/in/harrabisouhaib)
 - **Location:** Djerba, Tunisia
