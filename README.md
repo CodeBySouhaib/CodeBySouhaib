@@ -48,3 +48,5 @@ Here are a few of my favorite projects:
 - **GitHub:** [CodeBySouhaib](https://github.com/CodeBySouhaib)
 - **LinkedIn:** [Harrabi Souhaib](https://www.linkedin.com/in/harrabisouhaib)
 - **Location:** Djerba, Tunisia
+
+![Profile Views](https://komarev.com/ghpvc/?username=CodeBySouhaib&color=green)
