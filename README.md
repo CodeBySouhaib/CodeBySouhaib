@@ -5,13 +5,9 @@ I’m a third-year student at **ISET Djerba**, specializing in IT & Software Dev
 I completed an internship at **Bank Zitouna**, where I gained hands-on experience in software development and teamwork.  
 I’m passionate about building impactful software, learning new technologies, and contributing to the developer community.
 
-Currently, I’m working on several exciting projects:
-- **PHP Money Transfer App:** A web application for creating accounts and securely sending/receiving money.
-- **Flutter PDF Manager:** A mobile app for scanning PDFs and converting them to Word.
-- **React Native Task Manager:** A task management app with navigation and task creation features.
-
+Currently, I’m working on an exciting project:
+- **Messenger-like App:** A real-time messaging application built with **React Native** for the frontend and **ASP.NET** for the backend.
 ---
-
 ### 💻 Projects
 Here are a few of my favorite projects:
 - [PHP Money Transfer App](#): Manage accounts for secure money transfers.
