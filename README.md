@@ -1,3 +1,6 @@
+![Colorful Code](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 # 👋 Hello, I'm Harrabi Souhaib!
 
 ### 👨‍🎓 About Me
