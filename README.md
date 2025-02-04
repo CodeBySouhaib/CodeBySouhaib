@@ -1,50 +1,58 @@
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-# 💻 Harrabi Souhaib | Software Developer
-
-### 🚀 Currently Working On: My PFE Project  
-📌 **Project:** **E-Commerce Platform** (Jumia-like)  
-🔹 **Backend:** `ASP.NET Core Web API` (C#, Entity Framework, JWT)  
-🔹 **Frontend:** `Vue.js 3 (script setup)`  
-🔹 **Database:** `MySQL` (phpMyAdmin)  
-
-⚙ **Status:** `🚧 In Development...`  
-📅 **Expected Completion:** `Mid-2024`  
+# 🚀 Harrabi Souhaib | Software Developer  
+🔹 Passionate about **Web & Mobile Development**  
+🔹 Specializing in **ASP.NET Core, Vue.js, and Cloud Technologies**  
+🔹 Final-year student at **ISET Djerba (2025)**  
 
 ---
 
-## 🛠️ Tech Stack  
-![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp)  
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-blue?style=flat-square&logo=dotnet)  
-![Vue.js 3](https://img.shields.io/badge/-Vue.js%203-green?style=flat-square&logo=vue.js)  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)  
-![JWT](https://img.shields.io/badge/-JWT-orange?style=flat-square&logo=json-web-tokens)  
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)  
+## **🛠 Current Project: PFE 2025 (E-Commerce Platform)**
+💡 **Building a scalable e-commerce platform inspired by Jumia.**  
+
+| Tech | Stack |
+|------|-------|
+| 🖥 Backend | `ASP.NET Core Web API`, `C#`, `Entity Framework` |
+| 🌐 Frontend | `Vue.js 3 (script setup)`, `Pinia`, `Tailwind CSS` |
+| 🗄 Database | `MySQL`, `phpMyAdmin` |
+| 🔒 Security | `JWT Authentication`, `Role-Based Access Control (RBAC)` |
+| ☁ Deployment | `Docker`, `CI/CD (GitHub Actions)`, `Cloud Hosting` |
+
+📅 **Completion Goal:** `Mid-2025`  
+🔗 **Repositories:** [Backend](https://github.com/CodeBySouhaib/pfe-nexus-api) | [Frontend](https://github.com/CodeBySouhaib/pfe-nexus-client)  
 
 ---
 
-## 📌 Other Projects  
-Here are some of my previous works:  
-🔹 **PHP Money Transfer App** 💰 *(Manage accounts & secure transactions)*  
-🔹 **Flutter PDF Manager** 📄 *(Scan PDFs & convert them to Word)*  
-🔹 **React Native Task Manager** ✅ *(Create & track tasks easily)*  
-🔹 **UI/UX Reflection Project** 🎨 *(Gestalt laws in design)*  
+## **💼 Previous Projects**
+🔹 **Real-Time Chat App (React Native + ASP.NET Core)**  
+🔹 **PHP Money Transfer Platform**  
+🔹 **Flutter PDF Manager (Scan & Convert PDFs to Word)**  
+🔹 **Vue.js Task Manager with JWT Authentication**  
 
-📂 **More on:** [My GitHub Repositories](https://github.com/CodeBySouhaib?tab=repositories)  
-
----
-
-## 🎯 Goals for 2024  
-🚀 Successfully complete my **PFE Project**  
-🎓 Graduate from **ISET Djerba**  
-💼 Land a **full-time software development role**  
-🌍 Contribute to **open-source projects**  
+📂 **More Projects:** [GitHub Repositories](https://github.com/CodeBySouhaib?tab=repositories)  
 
 ---
 
-## 📫 Contact Me  
+## **🔧 Technical Skills**
+✅ **Programming:** `C#`, `JavaScript`, `TypeScript`, `PHP`, `Python`  
+✅ **Backend:** `ASP.NET Core`, `Node.js`, `Spring Boot`, `Express.js`  
+✅ **Frontend:** `Vue.js`, `React.js`, `React Native`, `Tailwind CSS`  
+✅ **Databases:** `MySQL`, `PostgreSQL`, `MongoDB`  
+✅ **Tools & DevOps:** `Git`, `Docker`, `CI/CD Pipelines (GitHub Actions)`, `Cloud Hosting`  
+
+---
+
+## **🎯 2025 Goals**
+📌 Complete **PFE 2025** and optimize it for **performance & security**  
+📌 Contribute to **open-source projects**  
+📌 Land a **full-time software engineering role**  
+📌 Improve expertise in **cloud technologies (AWS/Azure)**  
+
+---
+
+## **📫 Connect with Me**
 📩 **Email:** [harrabisouhaib@gmail.com](mailto:harrabisouhaib@gmail.com)  
 💼 **LinkedIn:** [Harrabi Souhaib](https://www.linkedin.com/in/harrabisouhaib)  
-📍 **Location:** Djerba, Tunisia
+📍 **Location:** Djerba, Tunisia  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeBySouhaib&color=green)
