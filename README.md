@@ -8,7 +8,7 @@
 ---
 
 ## **🛠 Current Project: PFE 2025 (E-Commerce Platform)**
-💡 **Building a scalable e-commerce platform inspired by Jumia.**  
+💡 **Building a scalable e-commerce platform.**  
 
 | Tech | Stack |
 |------|-------|
