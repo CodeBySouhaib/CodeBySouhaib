@@ -1,20 +1,18 @@
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 # 🚀 Harrabi Souhaib | Software Developer  
 🔹 Passionate about **Web & Mobile Development**  
-🔹 Specializing in **ASP.NET Core, Vue.js, and Cloud Technologies**  
+🔹 Specializing in **ASP.NET Core, Vue.js, PostgreSQL, and Cloud Technologies**  
 🔹 Final-year student at **ISET Djerba (2025)**  
 
 ---
 
-## **🛠 Current Project: PFE 2025 (E-Commerce Platform)**
-💡 **Building a scalable e-commerce platform.**  
+## **🛠 Current Project: PFE 2025 (E-Commerce Platform)**  
+💡 **Building a scalable e-commerce platform using ASP.NET Core & Vue.js 3**  
 
 | Tech | Stack |
 |------|-------|
-| 🖥 Backend | `ASP.NET Core Web API`, `C#`, `Entity Framework` |
-| 🌐 Frontend | `Vue.js 3 (script setup)`, `Pinia`, `Tailwind CSS` |
-| 🗄 Database | `MySQL`, `phpMyAdmin` |
+| 🖥 Backend | `ASP.NET Core Web API`, `C#`, `Entity Framework`, `PostgreSQL` |
+| 🌐 Frontend | `Vue.js 3 (script setup)`, `Pinia`, `CSS Media Queries` |
+| 🗄 Database | `PostgreSQL` |
 | 🔒 Security | `JWT Authentication`, `Role-Based Access Control (RBAC)` |
 | ☁ Deployment | `Docker`, `CI/CD (GitHub Actions)`, `Cloud Hosting` |
 
@@ -23,7 +21,7 @@
 
 ---
 
-## **💼 Previous Projects**
+## **💼 Previous Projects**  
 🔹 **Real-Time Chat App (React Native + ASP.NET Core)**  
 🔹 **PHP Money Transfer Platform**  
 🔹 **Flutter PDF Manager (Scan & Convert PDFs to Word)**  
@@ -33,7 +31,7 @@
 
 ---
 
-## **🔧 Technical Skills**
+## **🔧 Technical Skills**  
 ✅ **Programming:** `C#`, `JavaScript`, `TypeScript`, `PHP`, `Python`  
 ✅ **Backend:** `ASP.NET Core`, `Node.js`, `Spring Boot`, `Express.js`  
 ✅ **Frontend:** `Vue.js`, `React.js`, `React Native`, `Tailwind CSS`  
@@ -42,7 +40,7 @@
 
 ---
 
-## **🎯 2025 Goals**
+## **🎯 2025 Goals**  
 📌 Complete **PFE 2025** and optimize it for **performance & security**  
 📌 Contribute to **open-source projects**  
 📌 Land a **full-time software engineering role**  
@@ -50,9 +48,9 @@
 
 ---
 
-## **📫 Connect with Me**
+## **📫 Connect with Me**  
 📩 **Email:** [harrabisouhaib@gmail.com](mailto:harrabisouhaib@gmail.com)  
 💼 **LinkedIn:** [Harrabi Souhaib](https://www.linkedin.com/in/harrabisouhaib)  
-📍 **Location:** Djerba, Tunisia  
+📍 **Location:** Djerba, Tunisia 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeBySouhaib&color=green)
