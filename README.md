@@ -1,3 +1,6 @@
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+
 # 🚀 Harrabi Souhaib | Software Developer  
 🔹 Passionate about **Web & Mobile Development**  
 🔹 Specializing in **ASP.NET Core, Vue.js, PostgreSQL, and Cloud Technologies**  
