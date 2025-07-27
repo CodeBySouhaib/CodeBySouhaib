@@ -40,6 +40,6 @@
 ## **📫 Connect with Me**  
 📩 **Email:** [harrabisouhaib@gmail.com](mailto:harrabisouhaib@gmail.com)  
 💼 **LinkedIn:** [Harrabi Souhaib](https://www.linkedin.com/in/harrabisouhaib)  
-📍 **Location:** Djerba, Tunisia  
+📍 **Location:** Sidi Bouzid, Tunisia  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeBySouhaib&color=green)
