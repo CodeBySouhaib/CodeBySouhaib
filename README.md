@@ -104,4 +104,4 @@
 💼 **LinkedIn:** https://www.linkedin.com/in/harrabisouhaib  
 📍 **Location:** Tunisia  
 
-[![Profile views](https://komarev.com/ghpvc/?username=CodeBySouhaib&color=green)](https://github.com/CodeBySouhaib)
+!<a href="https://komarev.com/ghpvc/?username=CodeBySouhaib&color=green" target="_blank" rel="noopener noreferrer nofollow"></a>
