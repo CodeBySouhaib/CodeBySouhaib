@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– Backend: https://github.com/CodeBySouhaib/pfe-nexus-api  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– Frontend: https://github.com/CodeBySouhaib/pfe-nexus-client  
 
-🔹 **Real-Time Chat Application (React Native + ASP.NET Core + SignalR)**  
+🔹 **Real-Time Chat Application (Vue 3 + ASP.NET Core + SignalR)**  
 🔹 **Flutter PDF Manager** (Scan, Convert & Manage Documents)  
 🔹 **PHP Money Transfer Platform**  
 🔹 **Vue.js Task Manager with JWT Authentication**
@@ -92,7 +92,7 @@
 
 ---
 
-## 🎯 2025 Objectives  
+## 🎯 2026 Objectives  
 📌 Contribute to **open-source projects**  
 📌 Secure a **full-time software engineering role**  
 📌 Advance skills in **Cloud & Distributed Systems (AWS / Azure)**  
