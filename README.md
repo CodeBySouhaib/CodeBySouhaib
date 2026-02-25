@@ -86,10 +86,14 @@ My capstone project — a full-featured e-commerce platform with JWT authenticat
 | [pfe-nexus-client](https://github.com/CodeBySouhaib/pfe-nexus-client) | [pfe-nexus-api](https://github.com/CodeBySouhaib/pfe-nexus-api) |
 
 ### Real-Time Chat App
-Vue 3 + ASP.NET Core + SignalR
+**Vue 3 + ASP.NET Core + SignalR + Pinia**
+
+Real-time messaging with instant updates and responsive UI.
 
 ### Task Manager
-Vue.js with JWT Authentication
+**Vue.js + JWT + REST API**
+
+Task management with secure authentication and CRUD operations.
 
 [See all projects](https://github.com/CodeBySouhaib?tab=repositories)
 
@@ -106,9 +110,11 @@ Vue.js with JWT Authentication
 
 ## Let's Talk
 
-Email: harrabisouhaib@gmail.com  
-LinkedIn: [harrabisouhaib](https://www.linkedin.com/in/harrabisouhaib)  
-Location: Tunisia
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harrabisouhaib@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrabisouhaib)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeBySouhaib)
+
+📍 Tunisia 🌍
 
 ---
 
