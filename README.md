@@ -1,4 +1,4 @@
-![Coding GIF](https://media.giphy.com/media/13HgwGsXf0aiGY/200w.gif)
+![Coding GIF](https://media.giphy.com/media/13HgwGsXf0aiGY/giphy.gif)
 
 
 # 👋 Hi, I'm Harrabi Souhaib
