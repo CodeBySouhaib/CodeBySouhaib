@@ -2,10 +2,18 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdubHpnbnZ1OGN5Nzl0M2h1ejRqYzh5bm90NjFjenF0NXo4YXpraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" />
 </p>
 
+<p align="right">
+  <a href="README.fr.md">🇫🇷 Français</a>
+</p>
+
 # Hey, I'm Harrabi Souhaib
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBySouhaib&theme=github-dark&hide_border=true&count_private=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-4ADE80?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work">
 </p>
 
 ---
@@ -17,14 +25,6 @@ I'm a full-stack developer who loves building things that actually work (and don
 I work with ASP.NET Core, Vue.js, Flutter, and PostgreSQL. When I'm not coding, you'll find me kicking pads at Muay Thai training — been at it for almost a year now and I've got a nice belt to show for it. Some people do yoga, I prefer something with a bit more... impact.
 
 I drink way too much coffee, I debug at 3am more often than I'd like to admit, and I genuinely believe that Stack Overflow is a gift to humanity.
-
----
-
-## GitHub Contributions
-
-<p align="center">
-
-</p>
 
 ---
 
