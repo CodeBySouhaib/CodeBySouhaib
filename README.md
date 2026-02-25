@@ -1,10 +1,7 @@
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXf0aiGY/giphy.gif)
 
-# 👋 Hi, I'm Harrabi Souhaib
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeBySouhaib&color=2ecc71&style=flat-square" alt="Profile Views"/>
-</p>
+# 👋 Hi, I'm Harrabi Souhaib
 
 ---
 
@@ -78,10 +75,6 @@
 ### 💬 Real-Time Chat Application
 **Vue 3 + ASP.NET Core + SignalR**
 
-### 📄 Flutter PDF Manager
-Scan, Convert & Manage Documents
-
-### 💰 PHP Money Transfer Platform
 ### ✅ Vue.js Task Manager with JWT Authentication
 
 **[View All Projects →](https://github.com/CodeBySouhaib?tab=repositories)**
