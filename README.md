@@ -35,10 +35,13 @@ I drink way too much coffee, I debug at 3am more often than I'd like to admit, a
 ### Frameworks & Backend
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Pinia-FF7200?style=flat-square&logo=pinia&logoColor=white">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white">
+<img src="https://img.shields.io/badge/-RBAC-FF6C2F?style=flat-square&logo=rbac&logoColor=white">
 <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white">
 <img src="https://img.shields.io/badge/-SignalR-FF6C2F?style=flat-square&logo=signalr&logoColor=white">
 
