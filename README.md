@@ -5,12 +5,7 @@
 # Hey, I'm Harrabi Souhaib
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five-73b.ondigitalocean.app/api?username=CodeBySouhaib&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats-sigma-five-73b.ondigitalocean.app/api/top-langs/?username=CodeBySouhaib&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeBySouhaib&theme=react-dark&hide_border=true&area=true" alt="contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeBySouhaib&theme=github&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="contribution graph" />
 </p>
 
 ---
@@ -22,6 +17,23 @@ I'm a full-stack developer who loves building things that actually work (and don
 I work with ASP.NET Core, Vue.js, Flutter, and PostgreSQL. When I'm not coding, you'll find me kicking pads at Muay Thai training — been at it for almost a year now and I've got a nice belt to show for it. Some people do yoga, I prefer something with a bit more... impact.
 
 I drink way too much coffee, I debug at 3am more often than I'd like to admit, and I genuinely believe that Stack Overflow is a gift to humanity.
+
+---
+
+## GitHub Contributions
+
+<p align="center">
+
+| Year | Contributions |
+|------|---------------|
+| 2026 | 60 |
+| 2025 | 706 |
+| 2024 | 56 |
+| 2023 | 6 |
+
+**Total: 757 contributions** 💻
+
+</p>
 
 ---
 
