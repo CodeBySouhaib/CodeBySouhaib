@@ -24,17 +24,6 @@ I drink way too much coffee, I debug at 3am more often than I'd like to admit, a
 
 <p align="center">
 
-| Year | Contributions |
-|------|---------------|
-| 2026 | 60 |
-| 2025 | 706 |
-| 2024 | 56 |
-| 2023 | 6 |
-
-**Total: 757 contributions** 💻
-
-*Last updated: February 25, 2026*
-
 </p>
 
 ---
