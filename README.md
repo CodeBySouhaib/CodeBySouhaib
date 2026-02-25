@@ -5,8 +5,8 @@
 # Hey, I'm Harrabi Souhaib
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeBySouhaib&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBySouhaib&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-stats-sigma-five-73b.ondigitalocean.app/api?username=CodeBySouhaib&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five-73b.ondigitalocean.app/api/top-langs/?username=CodeBySouhaib&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
 </p>
 
 <p align="center">
