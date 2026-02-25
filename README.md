@@ -8,6 +8,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBySouhaib&theme=github-dark&hide_border=true&count_private=true" alt="streak" />
 </p>
 
+<!-- Other Stats Options (Uncomment to use) -->
+
+<!-- Option 1: Main Stats -->
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeBySouhaib&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
+</p> -->
+
+<!-- Option 2: Top Languages -->
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBySouhaib&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+</p> -->
+
+<!-- Option 3: Activity Graph -->
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeBySouhaib&theme=react-dark&hide_border=true&area=true" alt="contribution graph" />
+</p> -->
+
 ---
 
 ## A Bit About Me
