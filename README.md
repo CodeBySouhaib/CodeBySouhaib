@@ -5,7 +5,7 @@
 # Hey, I'm Harrabi Souhaib
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeBySouhaib&theme=github&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="contribution graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBySouhaib&theme=github-dark&hide_border=true&count_private=true" alt="streak" />
 </p>
 
 ---
@@ -32,6 +32,8 @@ I drink way too much coffee, I debug at 3am more often than I'd like to admit, a
 | 2023 | 6 |
 
 **Total: 757 contributions** 💻
+
+*Last updated: February 25, 2026*
 
 </p>
 
