@@ -17,16 +17,39 @@ I drink way too much coffee, I debug at 3am more often than I'd like to admit, a
 ## What I Work With
 
 ### Backend
-C# | .NET Core | Node.js | Express | PHP | Python
+<div>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</div>
 
 ### Frontend
-Vue.js | React | TypeScript | JavaScript | Tailwind CSS
+<div>
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+</div>
 
 ### Mobile
-Flutter | React Native | Dart
+<div>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+</div>
 
 ### Database & Cloud
-PostgreSQL | MySQL | MongoDB | Docker | Cloudinary
+<div>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white">
+</div>
 
 ---
 
@@ -37,8 +60,9 @@ PostgreSQL | MySQL | MongoDB | Docker | Cloudinary
 
 My capstone project — a full-featured e-commerce platform with JWT authentication, real-time chat using SignalR, wishlist and shopping cart (synced in real-time with Pinia), email verification, Cloudinary for image handling, and fully Dockerized. Built with clean architecture because I like my code like my coffee — organized.
 
-- [Frontend](https://github.com/CodeBySouhaib/pfe-nexus-client)
-- [Backend](https://github.com/CodeBySouhaib/pfe-nexus-api)
+| Frontend | Backend |
+|----------|---------|
+| [pfe-nexus-client](https://github.com/CodeBySouhaib/pfe-nexus-client) | [pfe-nexus-api](https://github.com/CodeBySouhaib/pfe-nexus-api) |
 
 ### Real-Time Chat App
 Vue 3 + ASP.NET Core + SignalR
