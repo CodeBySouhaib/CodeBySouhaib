@@ -9,6 +9,12 @@
 # Hey, je suis Harrabi Souhaib
 
 <p align="center">
+  <a href="https://portfolio-rho-flax-satz6z3crc.vercel.app/">
+    <img src="https://img.shields.io/badge/-🎮%20Mon%20Portfolio%20(avec%20un%20jeu%20snake)-3B82F6?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBySouhaib&theme=github-dark&hide_border=true&count_private=true" alt="streak" />
 </p>
 
