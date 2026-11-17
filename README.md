@@ -1,143 +1,135 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdubHpnbnZ1OGN5Nzl0M2h1ejRqYzh5bm90NjFjenF0NXo4YXpraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdubHpnbnZ1OGN5Nzl0M2h1ejRqYzh5bm90NjFjenF0NXo4YXpraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="banner" />
 </p>
 
 <p align="right">
   <a href="README.fr.md">🇫🇷 Français</a>
 </p>
 
-# Hey, I'm Harrabi Souhaib
+<h1 align="center">Hey, I'm Harrabi Souhaib 👋</h1>
 
 <p align="center">
   <a href="https://portfolio-rho-flax-satz6z3crc.vercel.app/">
-    <img src="https://img.shields.io/badge/-🎮%20My%20Portfolio%20(has%20a%20snake%20game)-3B82F6?style=for-the-badge" alt="Portfolio">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Full-Stack+%26+Mobile+Engineer;Flutter+%C2%B7+ASP.NET+Core+%C2%B7+Vue+3+%C2%B7+React;I+don't+build+demos.+I+ship+products.;Open+to+work+%E2%80%94+remote%2C+Canada+or+Dubai" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBySouhaib&theme=github-dark&hide_border=true&count_private=true" alt="streak" />
+  <a href="https://portfolio-rho-flax-satz6z3crc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-has%20a%20snake%20game%20🎮-3B82F6?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/harrabisouhaib"><img src="https://img.shields.io/badge/LinkedIn-harrabisouhaib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:harrabisouhaib@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-4ADE80?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work">
 </p>
+
+---
+
+## 🧑‍💻 About me
+
+I'm a full-stack and mobile developer who builds things that actually work (and don't crash at 2am).
+
+- 🎓 Licence (Bac+3) in Information Systems Development, **ISET Djerba** (2025)
+- 📱 Now in the final year of a **Master's in Mobile Application Engineering (IAM)**, ISET Sidi Bouzid
+- 💼 4 internships, including a solo-built multi-vendor SaaS for my PFE
+- 🛠️ Daily drivers: **Flutter, ASP.NET Core, Vue 3, React/TypeScript, PostgreSQL, Supabase**
+- 🥋 Muay Thai on the side, about a year in with a belt to show for it. Some people do yoga; I prefer something with more impact.
+- ☕ Too much coffee, too many 3am debugging sessions, eternal respect for Stack Overflow.
+
+---
+
+## 🚀 Things I've shipped
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 CrowdAnswer</h3>
+      <p>Social Q&amp;A mobile app where the community votes on the best answer. Built solo.</p>
+      <p>Multi-method auth (email, Google, magic link, biometrics) · threaded comments with voting · reactions, polls, @mentions · real-time private messaging · full moderation panel · offline mode</p>
+      <p><b>50+ features · 8 sprints · 215 commits</b></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,postgres" height="30" />
+      </p>
+      <a href="https://crowdanswer.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-crowdanswer.vercel.app-000?style=flat-square&logo=vercel" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💞 DUO</h3>
+      <p>Real-time task manager for couples. Started as a Figma assignment; shipped a production app instead.</p>
+      <p>4-digit duo invites · Me / Partner / Together tasks · live presence and notifications · EN / FR / AR with RTL · WCAG 2.1 accessible</p>
+      <p><b>208 KB gzipped · Lighthouse 95+ · &lt;0.8 s FCP</b></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,postgres,vercel" height="30" />
+      </p>
+      <a href="https://duodo-fawn.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-duodo--fawn.vercel.app-000?style=flat-square&logo=vercel" /></a>
+      <a href="https://github.com/CodeBySouhaib/couples-task-manager"><img src="https://img.shields.io/badge/Code-couples--task--manager-181717?style=flat-square&logo=github" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 PFE Nexus</h3>
+      <p>Enterprise multi-vendor e-commerce platform, built from scratch as the only developer during my PFE internship.</p>
+      <p>Admin / Vendor / Customer roles · real-time chat via SignalR · automated PDF invoices (QuestPDF) · multi-vendor cart with order splitting · analytics dashboards · Capacitor mobile build</p>
+      <p><b>20+ entities · 3 dashboards · 1 developer</b></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=dotnet,cs,vue,ts,postgres,docker" height="30" />
+      </p>
+      <sub>🔒 Private repo. Happy to walk you through it, just ask.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⏱️ Pointage</h3>
+      <p>Smart attendance and time-tracking platform built during an internship.</p>
+      <p>QR / NFC check-in with duplicate-scan prevention · HR and team-lead dashboards · CSV / PDF analytics · automated email summaries · configurable schedules and holidays</p>
+      <p><b>Sole developer, backend to frontend</b></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=dotnet,cs" height="30" />
+      </p>
+      <sub>🔒 Private repo.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/CodeBySouhaib?tab=repositories">See all repositories →</a></p>
+
+---
+
+## 🧰 Tech stack
+
+**Mobile**<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,tailwind,bootstrap,pinia" />
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,laravel,php,java" />
+<br><sub>Also: SignalR · REST · JWT / RBAC · Swagger · Entity Framework</sub>
+
+**Data & cloud**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,docker,linux,vercel" />
+<br><sub>Also: Neon · Cloudinary</sub>
+
+**Tools & workflow**<br>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,git,github,jira" />
+<br><sub>Agile / Scrum</sub>
+
+---
+
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-4ADE80?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work">
+  <img src="https://streak-stats.demolab.com/?user=CodeBySouhaib&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-## A Bit About Me
+## 🎯 Next up
 
-I'm a full-stack developer who loves building things that actually work (and don't crash at 2am). I graduated with a B.S. in Computer Science from ISET Djerba in 2025, and now I'm pursuing my Master's degree because apparently, I enjoy student life a bit too much.
-
-I work with ASP.NET Core, Vue.js, Flutter, and PostgreSQL. When I'm not coding, you'll find me kicking pads at Muay Thai training — been at it for almost a year now and I've got a nice belt to show for it. Some people do yoga, I prefer something with a bit more... impact.
-
-I drink way too much coffee, I debug at 3am more often than I'd like to admit, and I genuinely believe that Stack Overflow is a gift to humanity.
-
----
-
-## Tech Stack
-
-<div>
-
-### Languages
-<img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white">
-<img src="https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-
-### Frameworks & Backend
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Pinia-FF7200?style=flat-square&logo=pinia&logoColor=white">
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white">
-<img src="https://img.shields.io/badge/-RBAC-FF6C2F?style=flat-square&logo=rbac&logoColor=white">
-<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white">
-<img src="https://img.shields.io/badge/-SignalR-FF6C2F?style=flat-square&logo=signalr&logoColor=white">
-
-### Databases
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/-Neon-4C9F70?style=flat-square&logo=neon&logoColor=white">
-<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
-
-### DevOps & Cloud
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white">
-
-### Tools & Design
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
-<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge2/-Bootstrap-795B3?style=flat-square&logo=bootstrap&logoColor=white">
-
-### Methodology
-<img src="https://img.shields.io/badge/-REST-FF6C2F?style=flat-square&logo=rest&logoColor=white">
-<img src="https://img.shields.io/badge/-Agile-0078D4?style=flat-square&logo=agile&logoColor=white">
-<img src="https://img.shields.io/badge/-Scrum-009FDA?style=flat-square&logo=scrum&logoColor=white">
-<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
-
-</div>
-
----
-
-## Stuff I've Built
-
-### E-Commerce Platform (PFE 2025)
-**ASP.NET Core + Vue 3 + Neon PostgreSQL**
-
-My capstone project — a full-featured e-commerce platform with JWT authentication, real-time chat using SignalR, wishlist and shopping cart (synced in real-time with Pinia), email verification, Cloudinary for image handling, and fully Dockerized. Built with clean architecture because I like my code like my coffee — organized.
-
-| Frontend | Backend |
-|----------|---------|
-| [pfe-nexus-client](https://github.com/CodeBySouhaib/pfe-nexus-client) | [pfe-nexus-api](https://github.com/CodeBySouhaib/pfe-nexus-api) |
-
-### Real-Time Chat App
-**Vue 3 + ASP.NET Core + SignalR + Pinia**
-
-Real-time messaging with instant updates and responsive UI.
-
-### Task Manager
-**Vue.js + JWT + REST API**
-
-Task management with secure authentication and CRUD operations.
-
-[See all projects](https://github.com/CodeBySouhaib?tab=repositories)
-
----
-
-## What's Next in 2026
-
-- Contribute to open-source (finally)
-- Land a solid software engineering role
-- Get better at cloud stuff (AWS/Azure)
-- Learn microservices (because monoliths aren't forever)
-
----
-
-## Let's Talk
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harrabisouhaib@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrabisouhaib)
-
-📍 Tunisia 🌍
+- Land a solid software engineering role (Flutter or full-stack)
+- Finish my Master's in Mobile Application Engineering
+- Go deeper on cloud (AWS / Azure) and microservices
+- Contribute to open source (for real this time)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeBySouhaib&color=green" alt="Profile Views"/>
+  📍 Tunisia · Open to remote, Canada or Dubai<br><br>
+  <img src="https://komarev.com/ghpvc/?username=CodeBySouhaib&color=3B82F6&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
